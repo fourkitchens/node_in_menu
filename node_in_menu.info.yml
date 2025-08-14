@@ -1,0 +1,9 @@
+name: 'Node in Menu'
+type: module
+description: 'Provides a Views filter to show only nodes that are linked from a selected menu.'
+package: Views
+core_version_requirement: ^10 || ^11
+dependencies:
+  - drupal:views
+  - drupal:menu_link_content
+  - drupal:path

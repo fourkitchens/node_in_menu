@@ -1,0 +1,11 @@
+{
+  "name": "drupal/node_in_menu",
+  "description": "Provides a Views filter to show only nodes that are linked from a selected menu.",
+  "type": "drupal-module",
+  "license": "GPL-2.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "Drupal\\node_in_menu\\": "src/"
+    }
+  }
+}
