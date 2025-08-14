@@ -1,4 +1,4 @@
-# node-in-menu
+# node_in_menu
 Provides a Views filter that filters nodes by whether they are referenced in a specific menu.
 
 ### Overview
